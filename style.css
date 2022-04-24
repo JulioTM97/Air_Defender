@@ -1,0 +1,68 @@
+h1 {
+	margin-top: 0;
+	font-size: 36px;
+	text-align: center;
+	background-color: #3c5564;
+	color: white;
+	padding: 16px 0;
+}
+h2 {
+	color: crimson;
+	vertical-align: top;
+	padding: 0;
+	margin: 0;
+}
+
+#contenido {
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.scoreContent {
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	background-color: #444;
+}
+
+.scoreContent p{
+	color: white;
+	font-weight: bold;
+}
+
+#instrucciones {
+	border: 2px solid black;
+	width: 480px;
+	background-color: #444;
+	margin: 0 auto;
+}
+
+#instrucciones p {
+	color: crimson;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+#instrucciones ul li {
+	color:  white;
+	font-size: 18px;
+}
+
+#instrucciones ul {
+	padding-left: 20px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: calibri;
+}
+
+canvas {
+	border: 1px solid black;
+	display: inline-block;
+	margin: 0 auto;
+	background-image: url("background.png");
+
+}
