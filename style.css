@@ -63,6 +63,6 @@ canvas {
 	border: 1px solid black;
 	display: inline-block;
 	margin: 0 auto;
-	background-image: url("background.png");
+	background-image: url("resources/background.png");
 
 }

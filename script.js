@@ -41,6 +41,7 @@ const GameControl = {
 		player.shoto.deshabilitar();
 		player.posicion.y = 140;
 		player.nivel = 1;
+		Enemy.velocidad=0;
 		isRunning = true;
 		this.ScoreManager.setScore(0);
 		ctx.clearRect(0,0,canvas.width,canvas.height);
