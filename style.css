@@ -24,6 +24,7 @@ h2 {
 	vertical-align: top;
 	width: 200px;
 	background-color: #444;
+	border: 2px solid black;
 }
 
 .scoreContent p{
@@ -79,6 +80,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: calibri;
+	background-image: url("resources/kefla.png");
 }
 
 canvas {
