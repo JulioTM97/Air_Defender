@@ -36,6 +36,7 @@ h2 {
 	width: 480px;
 	background-color: #444;
 	margin: 0 auto;
+	margin-bottom: 100px;
 }
 
 #instrucciones p {
@@ -51,6 +52,27 @@ h2 {
 
 #instrucciones ul {
 	padding-left: 20px;
+	
+}
+
+footer {
+	background-color: #3c5564;
+	color:white;
+	width: 100%;
+	padding:20px 0px;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+}
+
+a {
+	color:white;
+	transition: color 0.5s;
+	font-weight: bold;
+}
+
+a:hover {
+	color: crimson;
 }
 
 body {
